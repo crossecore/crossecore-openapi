@@ -1,3 +1,2 @@
-```bash
- ./gradlew generateSwaggerCode
- ```
+# crossecore-openapi
+CrossEcore Generator Service
