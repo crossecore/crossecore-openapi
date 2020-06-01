@@ -24,7 +24,6 @@ paths:
           required: true
           schema:
             type: string
-            enum: [typescript, csharp, java, swift]
       requestBody:
           description: Contents of the model file as XMI.
           required: false
